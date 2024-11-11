@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\home\\viewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\home\\viewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|c:\\users\\asp.aptechnk1\\desktop\\crud 2\\crudapplication\\views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EEF6BAE-F2CC-4438-B985-B4C26BE8AE38}|CrudApplication\\CrudApplication.csproj|solutionrelative:crudapplication\\views\\home\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudApplication\\Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:56:12.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Home\\Delete.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T05:13:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CrudApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CrudApplication\\Models\\ErrorViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:31:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Home\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T04:30:16.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Home\\Details.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T05:25:45.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\ViewStudent.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Home\\ViewStudent.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\ViewStudent.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Home\\ViewStudent.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T04:43:22.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\appsettings.json",
+              "RelativeToolTip": "CrudApplication\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T04:57:36.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T05:18:30.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CrudApplication\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Models\\Student.cs",
+              "RelativeToolTip": "CrudApplication\\Models\\Student.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:14:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CrudApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Program.cs",
+              "RelativeToolTip": "CrudApplication\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:09:05.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Home\\Privacy.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:57:41.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CrudApplication\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CrudApplication\\Models\\ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:57:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Home\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\AddStudent.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Home\\AddStudent.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T05:17:00.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asp.APTECHNK1\\Desktop\\Crud 2\\CrudApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudApplication\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T04:16:52.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

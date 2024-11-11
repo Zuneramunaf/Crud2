@@ -1,0 +1,46 @@
+using CrudApplication.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
+
+namespace CrudApplication.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly ApplicationDbContext _DBContext;
+
+        public HomeController(ApplicationDbContext DBContext)
+        {
+            _DBContext= DBContext;
+        }
+
+        public IActionResult Index()
+        {
+            return View();
+        }
+        [HttpGet]
+        public IActionResult AddStudent()
+        {
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult AddStudent(Student student)
+        {
+            if (ModelState.IsValid){
+
+                _DBContext.Students.Add(student);
+                _DBContext.SaveChanges();
+                TempData["Success"] = "Successfully Registered";
+                return RedirectToAction("Viewpoint", "Home");
+            }
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+    }
+}
